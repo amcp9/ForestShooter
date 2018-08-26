@@ -1,0 +1,7 @@
+/Users/owner/Projects/War/DatabaseAction/bin/Debug/DatabaseAction.exe
+/Users/owner/Projects/War/DatabaseAction/bin/Debug/DatabaseAction.pdb
+/Users/owner/Projects/War/DatabaseAction/bin/Debug/MySql.Data.dll
+/Users/owner/Projects/War/DatabaseAction/obj/x86/Debug/DatabaseAction.csprojResolveAssemblyReference.cache
+/Users/owner/Projects/War/DatabaseAction/obj/x86/Debug/DatabaseAction.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/War/DatabaseAction/obj/x86/Debug/DatabaseAction.exe
+/Users/owner/Projects/War/DatabaseAction/obj/x86/Debug/DatabaseAction.pdb

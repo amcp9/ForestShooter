@@ -1,0 +1,5 @@
+/Users/owner/Projects/War/Common/bin/Debug/Common.dll
+/Users/owner/Projects/War/Common/bin/Debug/Common.pdb
+/Users/owner/Projects/War/Common/obj/Debug/Common.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/War/Common/obj/Debug/Common.dll
+/Users/owner/Projects/War/Common/obj/Debug/Common.pdb

@@ -1,0 +1,6 @@
+/Users/owner/Projects/War/War/bin/Debug/War.exe
+/Users/owner/Projects/War/War/bin/Debug/War.pdb
+/Users/owner/Projects/War/War/obj/x86/Debug/War.csprojResolveAssemblyReference.cache
+/Users/owner/Projects/War/War/obj/x86/Debug/War.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/War/War/obj/x86/Debug/War.exe
+/Users/owner/Projects/War/War/obj/x86/Debug/War.pdb

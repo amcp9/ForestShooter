@@ -1,0 +1,9 @@
+/Users/owner/Projects/War/War_Server/bin/Debug/War_Server.exe
+/Users/owner/Projects/War/War_Server/bin/Debug/War_Server.pdb
+/Users/owner/Projects/War/War_Server/bin/Debug/Common.dll
+/Users/owner/Projects/War/War_Server/bin/Debug/MySql.Data.dll
+/Users/owner/Projects/War/War_Server/bin/Debug/Common.pdb
+/Users/owner/Projects/War/War_Server/obj/x86/Debug/War_Server.csprojResolveAssemblyReference.cache
+/Users/owner/Projects/War/War_Server/obj/x86/Debug/War_Server.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/War/War_Server/obj/x86/Debug/War_Server.exe
+/Users/owner/Projects/War/War_Server/obj/x86/Debug/War_Server.pdb
